@@ -1,5 +1,5 @@
 package Lab1;
-
+//Jornor
 /**
  * 
  * @Author : Wasan Renumat
@@ -22,8 +22,7 @@ public class Main {
         System.out.println("Program start!");
 
         // Parsing a CSV file into Scanner class constructor
-        Scanner sc = new Scanner(new File(
-                "/Users/optimushsam/Library/CloudStorage/OneDrive-ChiangMaiUniversity/DB Design/953212_66-main/Lab1/QS-World-University-Rankings-2017_full.csv"));
+        Scanner sc = new Scanner(new File("C://Users//jenny//Desktop//uwu//Lab2//Lab1//QS-World-University-Rankings-2017_full.csv"));
         sc.useDelimiter(","); // sets the delimiter pattern
 
         // Skip the header
