@@ -5,6 +5,7 @@ package Lab1;
  * @Author : Wasan Renumat
  * cmu_account : wasan_r@cmu.ac.th
  * std : 652115044
+ * :)
  */
 import java.io.File;
 import java.io.FileWriter;
